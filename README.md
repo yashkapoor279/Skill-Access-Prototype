@@ -1,5 +1,5 @@
 
-  # Design SkillAccess Website
+  # SkillAccess Prototype
 
   This is a code bundle for Design SkillAccess Website. The original project is available at https://www.figma.com/design/oDYDHurg3EIZfHH2qZGW2p/Design-SkillAccess-Website.
 
